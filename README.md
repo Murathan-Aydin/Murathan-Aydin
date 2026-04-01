@@ -8,7 +8,7 @@ Disponible pour missions freelance (développement web, API, automatisation)
 
 ---
 
-## 🧠 Stack technique
+## Stack technique
 - Frontend : Next.js, React, TypeScript
 - Backend : NestJS, Fastify
 - Base de données : PostgreSQL (Prisma)
@@ -16,7 +16,7 @@ Disponible pour missions freelance (développement web, API, automatisation)
 
 ---
 
-## 🔥 Projet principal
+## Projet principal
 
 ### AutoTrack (en cours de développement)
 Plateforme full-stack dédiée à la gestion de véhicules et de garages :
@@ -31,7 +31,7 @@ Plateforme full-stack dédiée à la gestion de véhicules et de garages :
 
 ---
 
-## 💼 Expérience
+## Expérience
 
 - Développeur full-stack en alternance  
 - Développement d’APIs et automatisation (CRON, SFTP)  
@@ -50,14 +50,14 @@ Plateforme full-stack dédiée à la gestion de véhicules et de garages :
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - 🌐 Portfolio : https://ma-dev.fr  
-- 💼 Malt : https://www.malt.fr/profile/murathanaydin  
-- 💼 LinkedIn : https://linkedin.com/in/murathan-aydin  
+- Malt : https://www.malt.fr/profile/murathanaydin  
+- LinkedIn : https://linkedin.com/in/murathan-aydin  
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 Construire des applications web robustes et évolutives, avec une approche orientée architecture et cas réels.
